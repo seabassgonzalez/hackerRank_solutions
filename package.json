@@ -1,0 +1,11 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "HackerRank problem solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "seabassgonzalez",
+  "license": "ISC"
+}
